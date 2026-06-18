@@ -42,9 +42,9 @@ The system enforces a sophisticated fine logic to ensure timely returns:
 
 ## Credentials
 
-Admin ID: venkat@gmail.com, suda@gmail.com | Password: 1234, 
-User ID: sanjay@gmail.com, padmesh@gmail.com | Password: 1234
+- Admin ID: venkat@gmail.com, suda@gmail.com | Password: 1234
+- User ID: sanjay@gmail.com, padmesh@gmail.com | Password: 1234
 
-Prerequisites
+## Prerequisites
 
 - Java Development Kit (JDK) 8 or higher.
