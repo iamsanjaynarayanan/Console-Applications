@@ -1,4 +1,4 @@
-# Java Console Applications Portfolio
+# Console Applications
 
 A collection of robust, production-grade console applications built to demonstrate core Java fundamentals, object-oriented design, algorithmic business logic, and efficient data structuring.
 
