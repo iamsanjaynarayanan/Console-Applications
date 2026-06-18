@@ -4,8 +4,6 @@ A collection of robust, production-grade console applications built to demonstra
 
 ## Projects Overview
 
----
-
 ### 1. Library Management System
 A feature-rich console application designed to handle end-to-end library workflows, featuring a highly automated Fine Engine and modular user access control.
 
